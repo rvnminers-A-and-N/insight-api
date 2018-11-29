@@ -2,7 +2,7 @@
   "name": "insight-api",
   "description": "A Ravencoin blockchain REST and web socket API service for Ravencore Node.",
   "version": "1.0.3",
-  "repository": "git://github.com/OverstockMedici/insight-api.git",
+  "repository": "git://github.com/RavenDevKit/insight-api.git",
   "contributors": [
     {
       "name": "Under",
@@ -10,9 +10,9 @@
     }
   ],
   "bugs": {
-    "url": "https://github.com/OverstockMedici/insight-api/issues"
+    "url": "https://github.com/RavenDevKit/insight-api/issues"
   },
-  "homepage": "https://github.com/OverstockMedici/insight-api",
+  "homepage": "https://github.com/RavenDevKit/insight-api",
   "license": "MIT",
   "keywords": [
     "insight",
