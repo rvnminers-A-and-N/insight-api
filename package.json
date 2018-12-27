@@ -40,7 +40,7 @@
     "lru-cache": "^4.0.1",
     "mongoose": "5.1.7",
     "morgan": "^1.7.0",
-    "ravencore-lib": "RavenDevKit/ravencore-lib",
+    "@ravendevkit/ravencore-lib": "^1.0.3",
     "ravencore-message": "RavenDevKit/ravencore-message",
     "request": "^2.83.0"
   },
