@@ -1,7 +1,7 @@
 'use strict';
 
 var async = require('async');
-var ravencore = require('@ravendevkit/ravencore-lib');
+var ravencore = require('ravencore-lib');
 var BigNumber = require('bignumber.js');
 var LRU = require('lru-cache');
 var Common = require('../lib/common');

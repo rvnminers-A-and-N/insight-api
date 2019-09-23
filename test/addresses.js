@@ -3,7 +3,7 @@ var sinon = require('sinon');
 var should = require('should');
 var AddressController = require('../lib/addresses');
 var _ = require('lodash');
-var ravencore = require('@ravendevkit/ravencore-lib');
+var ravencore = require('ravencore-lib');
 
 var txinfos = {
   totalCount: 2,

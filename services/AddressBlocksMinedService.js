@@ -1,6 +1,6 @@
 var Common = require('../lib/common');
 var async = require('async');
-var ravencore = require('@ravendevkit/ravencore-lib');
+var ravencore = require('ravencore-lib');
 var TYPE = 'BLOCKS_MINED';
 var BN = ravencore.crypto.BN;
 
