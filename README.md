@@ -338,6 +338,26 @@ Example response:
 ```
 The response contains the value in Satoshis.
 
+### Address Balances (including assets)
+```
+  /api/addr/[:addr]/balances
+```
+The response contains RVN and asset balances combined:
+```
+{
+  "MYASSET": {
+    "totalReceived":100000000000,
+    "totalSpent":0,
+    "balance":100000000000
+  },
+  "RVN": {
+    "totalReceived":4200000000,
+    "totalSpent":0,
+    "balance":4200000000
+  }
+}
+```
+
 ### Unspent Outputs
 ```
   /api/addr/[:addr]/utxo
