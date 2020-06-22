@@ -366,6 +366,13 @@
 	  ]
 	},
 	{
+	  "poolName": "XPOOLX",
+	  "url": "https://xpoolx.com/",
+	  "searchStrings": [
+		"RLi9zKhQAbUBVrkKqvGthkvnxZ2uDj2yuv"
+	  ]
+	},	
+	{
 	  "poolName": "ahashpool.com",
 	  "url": "https://ahashpool.com/",
 	  "searchStrings": [
