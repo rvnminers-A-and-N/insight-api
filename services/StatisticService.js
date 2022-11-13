@@ -1235,9 +1235,11 @@ StatisticService.prototype.getBlockRewardr = function(height) {
 StatisticService.prototype.getPoolInfo = function(paddress) {
 
   for(var k in this.poolStrings) {
-    if (paddress.toString().match(k)) {
-      this.poolStrings[k].address = paddress;
-	  return this.poolStrings[k];
+    if (paddress) {
+        if (paddress.toString().match(k)) {
+            this.poolStrings[k].address = paddress;
+            return this.poolStrings[k];
+          }
     }
   }
 
