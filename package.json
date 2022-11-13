@@ -1,8 +1,8 @@
 {
   "name": "insight-api",
-  "description": "A Ravencoin blockchain REST and web socket API service for Ravencore Node.",
+  "description": "A Meowcoin blockchain REST and web socket API service for Meowcoincore Node.",
   "version": "1.0.3",
-  "repository": "git://github.com/RavenDevKit/insight-api.git",
+  "repository": "git://github.com/rvnminers-A-and-N/insight-api.git",
   "contributors": [
     {
       "name": "Under",
@@ -14,18 +14,18 @@
     }
   ],
   "bugs": {
-    "url": "https://github.com/RavenDevKit/insight-api/issues"
+    "url": "https://github.com/rvnminers-A-and-N/insight-api/issues"
   },
-  "homepage": "https://github.com/RavenDevKit/insight-api",
+  "homepage": "https://github.com/rvnminers-A-and-N/insight-api",
   "license": "MIT",
   "keywords": [
     "insight",
     "insight api",
     "blockchain",
-    "ravencoin api",
+    "meowcoin api",
     "blockchain api",
     "json",
-    "ravencore"
+    "meowcoincore"
   ],
   "engines": {
     "node": ">=0.12.0"
@@ -34,7 +34,7 @@
     "test": "NODE_ENV=test mocha -R spec --recursive"
   },
   "main": "lib",
-  "ravencoreNode": "lib",
+  "meowcoincoreNode": "lib",
   "dependencies": {
     "async": "2.6.2",
     "bignumber.js": "4.1.0",
@@ -44,8 +44,8 @@
     "lru-cache": "4.1.5",
     "mongoose": "5.1.7",
     "morgan": "1.9.1",
-    "ravencore-lib": "RavenDevKit/ravencore-lib",
-    "ravencore-message": "RavenDevKit/ravencore-message",
+    "meowcoincore-lib": "rvnminers-A-and-N/meowcoincore-lib",
+    "meowcoincore-message": "rvnminers-A-and-N/meowcoincore-message",
     "request": "2.88.0"
   },
   "peerDependencies": {},

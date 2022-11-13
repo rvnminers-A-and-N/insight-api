@@ -31,7 +31,7 @@
 	},
 	{
 	  "poolName": "MiningPoolHub",
-	  "url": "https://ravencoin.miningpoolhub.com/",
+	  "url": "https://meowcoin.miningpoolhub.com/",
 	  "searchStrings": [
 		"RGgKSh4faTrc2zwazhTk9bJ5RHMeh5S8Pb"
 	  ]
@@ -59,7 +59,7 @@
 	},
 	{
 	  "poolName": "Minerall",
-	  "url": "https://minerall.io/ravencoin",
+	  "url": "https://minerall.io/meowcoin",
 	  "searchStrings": [
 		"RQyVDWu49NdUQmmsB1YXGHJr15PYE1hWD6"
 	  ]
@@ -264,8 +264,8 @@
 	  ]
 	},
 	{
-	  "poolName": "RavenCoin.World",
-	  "url": "https://pool.ravencoin.world/",
+	  "poolName": "Meowcoin.World",
+	  "url": "https://pool.meowcoin.world/",
 	  "searchStrings": [
 		"RQcHE3HRRbT3KwFnvpzDfj9tpgUPwQ6BeB",
 		"RSos8DUfQJES9CkhLN42NpydacdrAu6RRk",
@@ -448,8 +448,8 @@
 	  ]
 	},
 	{
-	  "poolName": "RavenMiner",
-	  "url": "https://ravenminer.com/",
+	  "poolName": "MeowcoinMiner",
+	  "url": "https://meowcoinminer.com/",
 	  "searchStrings": [
 		"RNJMLCLiss7hf23rZSq9BzhoQ94H5EDQTy",
 		"RFtHhp8S43JDnzAJz9GDvups6pdJjBA7nM",
@@ -465,8 +465,8 @@
 	  ]
 	},
 	{
-	  "poolName": "RavenMiner EU",
-	  "url": "https://eu.ravenminer.com",
+	  "poolName": "MeowcoinMiner EU",
+	  "url": "https://eu.meowcoinminer.com",
 	  "searchStrings": [
 		"RY2ApTjKWuJCq6rfu8eYRKVuciwAaAUnB6"
 	  ]
