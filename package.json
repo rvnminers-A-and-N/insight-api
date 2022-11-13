@@ -44,8 +44,8 @@
     "lru-cache": "4.1.5",
     "mongoose": "5.1.7",
     "morgan": "1.9.1",
-    "meowcoincore-lib": "rvnminers-A-and-N/meowcoincore-lib",
-    "meowcoincore-message": "rvnminers-A-and-N/meowcoincore-message",
+    "meowcoincore-lib": "git+https://github.com/rvnminers-A-and-N/meowcoincore-lib.git",
+    "meowcoincore-message": "git+https://github.com/rvnminers-A-and-N/meowcoincore-message.git",
     "request": "2.88.0"
   },
   "peerDependencies": {},
